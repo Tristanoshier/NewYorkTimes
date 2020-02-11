@@ -4,7 +4,7 @@
 body {
   font-family: 'Quicksand', sans-serif;
   margin: 0;
-  background: url(../01-New-York-Times/assets/newyork2.jpeg);
+  background: url(./assets/newyork2.jpeg);
   background-size: cover;
 }
 
